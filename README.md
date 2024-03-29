@@ -21,9 +21,9 @@ To record some useful reference with ToDamnnnn.
 
 1. [LLM Note Day 22 - 任務導向聊天機器人 TOD Chatbot](https://ithelp.ithome.com.tw/articles/10334859)
 2. [Implement End-to-End Encryption](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6426)
-- [] End-to-End Encryption (E2EE) is a system of communication where only the communicating parties can read the messages. The conversation is encrypted in a way that only the unique recipient of a message is allowed to decrypt it, and not anyone in between
+- End-to-End Encryption (E2EE) is a system of communication where only the communicating parties can read the messages. The conversation is encrypted in a way that only the unique recipient of a message is allowed to decrypt it, and not anyone in between
 4. [Using LINE Letter Sealing](https://guide.line.me/en/line-privacy.html)
-- [] LINE multiple chat and group features, but should be lesser than 50 people inside the group
+- LINE multiple chat and group features, but should be lesser than 50 people inside the group
 
 
 ## Related Project
